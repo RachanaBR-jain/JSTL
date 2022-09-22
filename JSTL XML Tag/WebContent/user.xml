@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>Max</name>
+		<age>25</age>
+		<gender>female</gender>
+	</user>
+	<user>
+		<name>Rahul</name>
+		<age>25</age>
+		<gender>male</gender>
+	</user>
+	<user>
+		<name>Geeta</name>
+		<age>29</age>
+		<gender>female</gender>
+	</user>
+</users>
